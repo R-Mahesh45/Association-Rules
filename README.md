@@ -51,8 +51,8 @@ pip install pandas mlxtend matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <[repository-url](https://github.com/R-Mahesh45/Association-Rules.git)>
+   cd <Association-Rules.git>
    ```
 
 2. Run the script to generate rules:
